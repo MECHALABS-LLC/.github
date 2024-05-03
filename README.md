@@ -1,1 +1,1 @@
-<img src = "https://github.com/MECHALABS-LLC/.github/assets/168731666/21232903-0aaa-41bb-83d1-3f8eba14b054" alt = "MechaLabs processor" width = "500" />
+<img src = "https://github.com/MECHALABS-LLC/.github/assets/10962678/e6652d1c-ab59-4155-a344-d9c3a8e6053e" alt = "MechaLabs processor" width = "500" />
