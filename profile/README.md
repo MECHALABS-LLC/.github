@@ -1,4 +1,4 @@
-# Welcome to the MechaLabs official Github page 
+# Welcome to the official MECHALABS-LLC Github page 
 <img src = "https://github.com/MECHALABS-LLC/.github/assets/168731666/3b39b1ee-d3d1-48d0-bb53-b0f89768a25c" alt = "MechaLabs-processor" width = "500" />
 
 # Here is some of our major products, ENJOY!!!
